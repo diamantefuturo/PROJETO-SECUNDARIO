@@ -1,0 +1,1 @@
+print("Hello, World! Bem-vindo à Inteligência Artificial!")
