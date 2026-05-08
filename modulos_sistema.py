@@ -16,7 +16,8 @@ from datetime import datetime
 # ─────────────────────────────────────────
 #  CAMINHO DO BANCO DE DADOS JSON
 # ─────────────────────────────────────────
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Ajustado para buscar a pasta 'dados' no mesmo diretório se o arquivo estiver na raiz
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ARQUIVO_JSON = os.path.join(BASE_DIR, "dados", "modulos_sistema.json")
 
 

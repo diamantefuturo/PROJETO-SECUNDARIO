@@ -19,9 +19,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from datetime import datetime
 
 # ── Importa as funções dos 3 módulos ────────────────────────
-from controle_de_acesso.usuarios       import criar_usuario
-from controle_de_acesso.modulos_sistema import inicializar_modulos_padrao
-from controle_de_acesso.ambientes      import inicializar_ambientes_padrao, adicionar_loja_ao_ambiente, buscar_ambiente
+from usuarios           import criar_usuario
+from modulos_sistema    import inicializar_modulos_padrao
+from ambientes          import inicializar_ambientes_padrao, adicionar_loja_ao_ambiente, buscar_ambiente
 
 print("=" * 60)
 print("  SHOPCONTROL — Inicializando Módulo 1")
@@ -175,7 +175,7 @@ print("   • usuarios.json         → 15 usuários")
 print("   • modulos_sistema.json  → 8 módulos")
 print("   • ambientes.json        → 12 ambientes + lojas")
 print("\n▶️  Como usar:")
-print('   python "Controle de Acesso/usuarios.py"       → menu de usuários')
-print('   python "Controle de Acesso/modulos_sistema.py" → menu de módulos')
-print('   python "Controle de Acesso/ambientes.py"       → menu de ambientes')
+print('   python usuarios.py         → menu de usuários')
+print('   python modulos_sistema.py  → menu de módulos')
+print('   python ambientes.py        → menu de ambientes')
 print("=" * 60)

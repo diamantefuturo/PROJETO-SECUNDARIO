@@ -1,0 +1,307 @@
+{
+  "metadados": {
+    "criado_em": "2026-05-08T18:59:34.326724",
+    "total_ambientes": 12,
+    "versao": "1.0",
+    "ultima_atualizacao": "2026-05-08T18:59:34.351431"
+  },
+  "ambientes": [
+    {
+      "id": "E5E721F9",
+      "nome": "Shopping Norte — Prédio Principal",
+      "shopping": "Shopping Norte",
+      "tipo": "shopping",
+      "andar": "Todos",
+      "capacidade_max": 5000,
+      "area_m2": 45000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.326754",
+      "ultima_atualizacao": "2026-05-08T18:59:34.326755",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "4E0894C3",
+      "nome": "Shopping Norte — Estacionamento Térreo",
+      "shopping": "Shopping Norte",
+      "tipo": "estacionamento",
+      "andar": "Térreo",
+      "capacidade_max": 800,
+      "area_m2": 12000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.328262",
+      "ultima_atualizacao": "2026-05-08T18:59:34.328268",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "F6AE7CA8",
+      "nome": "Shopping Norte — Praça de Alimentação",
+      "shopping": "Shopping Norte",
+      "tipo": "praça_de_alimentação",
+      "andar": "2º",
+      "capacidade_max": 600,
+      "area_m2": 2500,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.329386",
+      "ultima_atualizacao": "2026-05-08T18:59:34.329391",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "42851427",
+      "nome": "Shopping Norte — Corredor Principal L1",
+      "shopping": "Shopping Norte",
+      "tipo": "corredor",
+      "andar": "1º",
+      "capacidade_max": 300,
+      "area_m2": 800,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.330927",
+      "ultima_atualizacao": "2026-05-08T18:59:34.330934",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": [
+        {
+          "id_loja": "DD9B5CAC",
+          "nome": "Renner",
+          "segmento": "moda",
+          "area_m2": 800.0,
+          "status": "ativa",
+          "data_cadastro": "2026-05-08T18:59:34.345869"
+        },
+        {
+          "id_loja": "3BE2E603",
+          "nome": "Riachuelo",
+          "segmento": "moda",
+          "area_m2": 750.0,
+          "status": "ativa",
+          "data_cadastro": "2026-05-08T18:59:34.348090"
+        },
+        {
+          "id_loja": "BAA30928",
+          "nome": "Magazine Luiza",
+          "segmento": "tecnologia",
+          "area_m2": 600.0,
+          "status": "ativa",
+          "data_cadastro": "2026-05-08T18:59:34.349773"
+        },
+        {
+          "id_loja": "BACD831F",
+          "nome": "Cacau Show",
+          "segmento": "alimentação",
+          "area_m2": 80.0,
+          "status": "ativa",
+          "data_cadastro": "2026-05-08T18:59:34.351210"
+        }
+      ]
+    },
+    {
+      "id": "14E76CA8",
+      "nome": "Shopping Sul — Prédio Principal",
+      "shopping": "Shopping Sul",
+      "tipo": "shopping",
+      "andar": "Todos",
+      "capacidade_max": 4500,
+      "area_m2": 40000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.332363",
+      "ultima_atualizacao": "2026-05-08T18:59:34.332368",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "4C922774",
+      "nome": "Shopping Sul — Estacionamento Coberto",
+      "shopping": "Shopping Sul",
+      "tipo": "estacionamento",
+      "andar": "Subsolo",
+      "capacidade_max": 700,
+      "area_m2": 10500,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.333658",
+      "ultima_atualizacao": "2026-05-08T18:59:34.333664",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "BEED205E",
+      "nome": "Shopping Sul — Praça de Alimentação",
+      "shopping": "Shopping Sul",
+      "tipo": "praça_de_alimentação",
+      "andar": "3º",
+      "capacidade_max": 500,
+      "area_m2": 2000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.334906",
+      "ultima_atualizacao": "2026-05-08T18:59:34.334911",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "AADC571C",
+      "nome": "Shopping Leste — Prédio Principal",
+      "shopping": "Shopping Leste",
+      "tipo": "shopping",
+      "andar": "Todos",
+      "capacidade_max": 3800,
+      "area_m2": 35000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.336372",
+      "ultima_atualizacao": "2026-05-08T18:59:34.336377",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "D1BE9B1E",
+      "nome": "Shopping Leste — Estacionamento Externo",
+      "shopping": "Shopping Leste",
+      "tipo": "estacionamento",
+      "andar": "Externo",
+      "capacidade_max": 600,
+      "area_m2": 9000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.337681",
+      "ultima_atualizacao": "2026-05-08T18:59:34.337687",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "F7488E65",
+      "nome": "Shopping Oeste — Prédio Principal",
+      "shopping": "Shopping Oeste",
+      "tipo": "shopping",
+      "andar": "Todos",
+      "capacidade_max": 4200,
+      "area_m2": 38000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.339614",
+      "ultima_atualizacao": "2026-05-08T18:59:34.339622",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "5E911B90",
+      "nome": "Shopping Oeste — Estacionamento Térreo",
+      "shopping": "Shopping Oeste",
+      "tipo": "estacionamento",
+      "andar": "Térreo",
+      "capacidade_max": 650,
+      "area_m2": 9750,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.341374",
+      "ultima_atualizacao": "2026-05-08T18:59:34.341381",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    },
+    {
+      "id": "2FF6FD01",
+      "nome": "Shopping Oeste — Área Externa/Lazer",
+      "shopping": "Shopping Oeste",
+      "tipo": "área_externa",
+      "andar": "Externo",
+      "capacidade_max": 400,
+      "area_m2": 3000,
+      "descricao": null,
+      "coordenadas_mapa": {},
+      "status": "ativo",
+      "data_cadastro": "2026-05-08T18:59:34.343270",
+      "ultima_atualizacao": "2026-05-08T18:59:34.343275",
+      "equipamentos_instalados": [],
+      "monitoramento": {
+        "ocupacao_atual": 0,
+        "fluxo_hoje": 0,
+        "media_permanencia_min": 0,
+        "ultima_leitura": null
+      },
+      "lojas": []
+    }
+  ]
+}
