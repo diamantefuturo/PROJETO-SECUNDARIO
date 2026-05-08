@@ -1,0 +1,151 @@
+{
+  "metadados": {
+    "criado_em": "2026-05-08T20:40:11.725473",
+    "total_modulos": 8,
+    "versao": "1.0",
+    "ultima_atualizacao": "2026-05-08T20:40:11.731567"
+  },
+  "modulos": [
+    {
+      "id": "43EA2BBA",
+      "nome": "Controle de Acesso",
+      "codigo": "MOD_ACESSO",
+      "descricao": "Gerenciamento de usuários, perfis e permissões do sistema.",
+      "icone": "🔐",
+      "perfis_autorizados": [
+        "administrador"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.725501",
+      "ultima_atualizacao": "2026-05-08T20:40:11.725503",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "AC676E68",
+      "nome": "Gerenciamento de Equipamentos",
+      "codigo": "MOD_EQUIP",
+      "descricao": "Cadastro e distribuição de câmeras, sensores e outros equipamentos.",
+      "icone": "📷",
+      "perfis_autorizados": [
+        "administrador",
+        "funcionario_shopping"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.727988",
+      "ultima_atualizacao": "2026-05-08T20:40:11.727994",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "85CCD639",
+      "nome": "Monitoramento de Ambientes",
+      "codigo": "MOD_MONITOR",
+      "descricao": "Monitoramento em tempo real de prédios e estacionamentos via câmeras e IA.",
+      "icone": "🏢",
+      "perfis_autorizados": [
+        "administrador",
+        "funcionario_shopping",
+        "seguranca"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.728505",
+      "ultima_atualizacao": "2026-05-08T20:40:11.728509",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "B4A38263",
+      "nome": "Auditoria",
+      "codigo": "MOD_AUDIT",
+      "descricao": "Registros de eventos, logs e relatórios de auditoria do sistema.",
+      "icone": "📋",
+      "perfis_autorizados": [
+        "administrador",
+        "funcionario_shopping"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.729154",
+      "ultima_atualizacao": "2026-05-08T20:40:11.729218",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "CB9DB396",
+      "nome": "Análise e Mapa de Calor",
+      "codigo": "MOD_CALOR",
+      "descricao": "Geração de mapas de calor e análise de fluxo de pessoas nos shoppings.",
+      "icone": "🔥",
+      "perfis_autorizados": [
+        "administrador",
+        "dono_loja",
+        "funcionario_shopping"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.729745",
+      "ultima_atualizacao": "2026-05-08T20:40:11.729749",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "1C5F67DA",
+      "nome": "Controle de Estacionamento",
+      "codigo": "MOD_ESTAC",
+      "descricao": "Monitoramento de vagas, leitura de placas e controle de entrada/saída de veículos.",
+      "icone": "🚗",
+      "perfis_autorizados": [
+        "administrador",
+        "funcionario_shopping",
+        "seguranca"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.730339",
+      "ultima_atualizacao": "2026-05-08T20:40:11.730343",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "35134B3C",
+      "nome": "Perfis de Visitantes",
+      "codigo": "MOD_PERFIL",
+      "descricao": "Visualização de perfis comportamentais e preferências dos visitantes.",
+      "icone": "👤",
+      "perfis_autorizados": [
+        "administrador",
+        "dono_loja",
+        "funcionario_shopping"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.730874",
+      "ultima_atualizacao": "2026-05-08T20:40:11.730878",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    },
+    {
+      "id": "429851F2",
+      "nome": "Dashboard",
+      "codigo": "MOD_DASH",
+      "descricao": "Painel principal com visão geral e métricas em tempo real.",
+      "icone": "📊",
+      "perfis_autorizados": [
+        "administrador",
+        "dono_loja",
+        "funcionario_shopping",
+        "seguranca"
+      ],
+      "dependencias": [],
+      "status": "ativo",
+      "data_criacao": "2026-05-08T20:40:11.731468",
+      "ultima_atualizacao": "2026-05-08T20:40:11.731472",
+      "versao_modulo": "1.0",
+      "configuracoes": {}
+    }
+  ]
+}
